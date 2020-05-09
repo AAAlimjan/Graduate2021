@@ -1,13 +1,7 @@
 # Graduate- 2020
 
-## 确定学校
-
-http://yzb.nankai.edu.cn/2019/0916/c5510a203854/page.htm
-天津大学：http://yzb.tju.edu.cn/
-研究生院 http://gs.tju.edu.cn/
-天津师范大学：http://yjsy.tjnu.edu.cn/info/1112/2966.htm
-天津工业大学：http://yjsb.tjpu.edu.cn/2714/list.htm
-天津科技大学：http://yjs.tust.edu.cn/zsgz/tzggzs/106552.htm
+[天津大学研究生招生网](http://yzb.tju.edu.cn/)
+[天津大学研究生院]( http://gs.tju.edu.cn/)
 
 ## 考试时间：
 
