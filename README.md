@@ -28,19 +28,21 @@
 
   [徐涛强化课与肖1000题对应关系图](https://www.bilibili.com/video/BV1yL411p7rc)
 
+  ------
+
 - 翻译硕士英语（100）
 
   百词斩
 
-  每日英语听力（http://dict.eudic.net/ting）
+  [每日英语听力](http://dict.eudic.net/ting)
 
-  托福在线考试（https://www.4tests.com/toefl#StartExam）
+  [托福在线考试](https://www.4tests.com/toefl#StartExam)
 
   NeatReader
 
   微信读书
 
-  
+  ------
 
 - 英语翻译基础（150）
 
