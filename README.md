@@ -22,11 +22,11 @@
 
   肖秀荣考研政治知识点精讲精练
 
-  招研网：（https://yz.chsi.com.cn/kyzx/politics/）
+  [招研网](https://yz.chsi.com.cn/kyzx/politics/)
 
-  徐涛网课：https://www.bilibili.com/video/BV1e7411w7d4/
+  [徐涛网课](https://www.bilibili.com/video/BV1e7411w7d4/)
 
-  徐涛强化课与肖1000题对应关系图：https://www.bilibili.com/video/BV1yL411p7rc
+  [徐涛强化课与肖1000题对应关系图](https://www.bilibili.com/video/BV1yL411p7rc)
 
 - 翻译硕士英语（100）
 
