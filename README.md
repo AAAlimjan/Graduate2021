@@ -1,6 +1,6 @@
 
 
-# Graduate2021
+# Graduate2022
 
 - [天津大学研究生招生网](http://yzb.tju.edu.cn/)
 - [天津大学研究生院]( http://gs.tju.edu.cn/)
