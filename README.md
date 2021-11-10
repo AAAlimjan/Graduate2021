@@ -1,7 +1,3 @@
-# GraduateSchoolExam2022
-
-
-
 <iframe src="https://free.timeanddate.com/countdown/i8241t76/n646/cf12/cm0/cu4/ct0/cs0/ca0/cr0/ss0/cac000/cpc000/pct/tcfff/fn2/fs100/szw448/szh189/tat2022%E5%B9%B4%E7%A0%94%E7%A9%B6%E7%94%9F%E8%80%83%E8%AF%95%E5%80%92%E8%AE%A1%E6%97%B6/tac000/tptTime%20since%20Event%20started%20in/tpc000/matMTI%40TJU/macf00/mpc000/iso2021-12-25T08:30:00" allowtransparency="true" frameborder="0" width="247" height="93">
 </iframe>
 ------
